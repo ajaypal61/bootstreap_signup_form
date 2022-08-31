@@ -1,42 +1,23 @@
 *{
     margin: 0;
     padding: 0;
-    /* box-sizing: border-box; */
-    /* background-color: aqua; */
+    
 }
 
 
 #iform{
-    /* width: 1000px; */
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    /* background-color: rgb(3, 3, 3); */
 }
 
-h2{
-    color: #000000;
-    text-align: center;
-    margin: 0;
-    padding: 20px 0 20px 0;
-}
+
 
 .form{
-    /* background-color: #c8c9bf38; */
     width: 40rem;
-    padding: 1.2rem 2rem 3rem 2rem;
-    border-radius: 1rem;
-    box-shadow: 0 30px 35px rgba(1, 1, 1, 0.831);
 }
 
-.cl{
-    color: rgb(1, 1, 1);
-}
-
-.btn{
-    width: 100%;
-}
 
 
 
